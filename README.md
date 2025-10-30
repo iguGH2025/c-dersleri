@@ -28,7 +28,7 @@ ana proje dizini /
 # İNDİRME VE DÜZENLEME SİSTEMİ
 
 > [!WARNING]
-> daha detaylı anlatım için lütfen Proje Kullanım Klavuzu'na bakınız.
+> daha detaylı anlatım için lütfen [Proje Kullanım Klavuzu](https://github.com/iguGH2025/c-dersleri/tree/main/Proje_Kullanim_Klavuzu)'na bakınız.
 
 Bu proje doğrudan main branch üzerinde çalışacak şekilde yapılandırılmıştır. Katılımcıların proje dosyalarına erişebilmesi ve düzenleme yapabilmesi için yönetici onayıyla davet edilmesi gerekir.
 
