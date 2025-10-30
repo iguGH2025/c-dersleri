@@ -20,7 +20,8 @@ ana proje dizini /
 ├─ Ali_Veli
 ├─ Ahmet_Yilmaz
 ├─ Aysenur_Gurses
-└─ Ismail_Sen
+├─ Ismail_Sen
+└─ README.md
 ```
 
 ---
