@@ -27,6 +27,9 @@ ana proje dizini /
 
 # İNDİRME VE DÜZENLEME SİSTEMİ
 
+> [!WARNING]
+> daha detaylı anlatım için lütfen Proje Kullanım Klavuzu'na bakınız.
+
 Bu proje doğrudan main branch üzerinde çalışacak şekilde yapılandırılmıştır. Katılımcıların proje dosyalarına erişebilmesi ve düzenleme yapabilmesi için yönetici onayıyla davet edilmesi gerekir.
 
 1. Katılım ve Erişim İzni
@@ -98,9 +101,9 @@ Yazdığınız kodlara başkası tarafından müdahale edilirse, dosyalarınız�
 5. Kod içinde açıklayıcı yorum satırları bulunmalıdır.
 6. Her kod derlenebilir durumda olmalıdır. Hatalı veya eksik kod yüklenmemelidir; hatalıysa düzeltilmelidir.
 6. Git işlemleri düzenli yapılmalıdır. Katılımcıların bu komutları kendilerinin öğrenmesi ve uygulaması beklenir:
-	Yeni dosya eklemek için: git add .
-	Açıklayıcı mesajla commit atmak için: git commit -m "Yeni ödev eklendi"
-	Değişiklikleri GitHub’a göndermek için: git push
+   Yeni dosya eklemek için: git add .
+   Açıklayıcı mesajla commit atmak için: git commit -m "Yeni ödev eklendi"
+   Değişiklikleri GitHub’a göndermek için: git push
 7. Başkalarının klasörlerine yapılan yanlışlıkla değişiklikler tespit edilirse commit geri alınmalıdır. Tekrarlanırsa katılımcı projeden çıkarılır.
 8. Projeler haftalık olarak kontrol edilir.
 9. Her katılımcı kendi GitHub hesabıyla katkı sağlar. Commit’ler kendi kullanıcı adlarıyla görüneceği için sistem otomatik olarak katkıyı algılar.
@@ -111,9 +114,9 @@ Her klasör içinde kısa bir README.md dosyası bulunmalı ve aşağıdaki bilg
 1. Projenin adı
 2. Ne amaçla yazıldığı
 3. Kısa çalışma açıklaması
-4. Derleme ve çalıştırma komutları
+4. Derleme ve çalıştırma komutları.
 
-> UYARI:
+> [!CAUTION]
 > projede bulunan `.git` klasörünü **asla dokunmayın**.
 
 ## HEDEFLER
