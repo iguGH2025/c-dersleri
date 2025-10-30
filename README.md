@@ -47,6 +47,9 @@ Her klasör içinde kısa bir README.md dosyası bulunmalı ve aşağıdaki bilg
 3. Kısa çalışma açıklaması
 4. Derleme ve çalıştırma komutları
 
+> UYARI:
+> projede bulunan `.git` klasörünü **asla dokunmayın**.
+
 ## HEDEFLER
 
 - C dili pratiği yapmak
