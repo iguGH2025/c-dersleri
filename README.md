@@ -125,6 +125,21 @@ Her klasör içinde kısa bir README.md dosyası bulunmalı ve aşağıdaki bilg
 - Katkı geçmişiyle özgeçmişe referans sağlayacak bir yazılım projesi oluşturmak
 
 
-## KATKI SAĞLAYANLAR
+## Katkı Sağlayanlar
 
-Projeye katkı sağlayan herkesin GitHub kullanıcı adı bu bölümde listelenecektir.
+Bu projeye katkı sağlayan öğrenciler aşağıda listelenmiştir.  
+(GitHub profil fotoğraflarına tıklayarak profillerine ulaşabilirsiniz.)
+
+<p align="center">
+  <a href="https://github.com/iguGH2025">
+    <img src="https://avatars.githubusercontent.com/iguGH2025" width="70" height="70" style="border-radius:50%;" alt="iguGH2025"/>
+  </a>
+  <a href="https://github.com/trs-1342">
+    <img src="https://avatars.githubusercontent.com/trs-1342" width="70" height="70" style="border-radius:50%;" alt="trs-1342"/>
+  </a>
+  <a href="https://github.com/trs-1342">
+    <img src="https://avatars.githubusercontent.com/sara-rezk" width="70" height="70" style="border-radius:50%;" alt="trs-1342"/>
+  </a>
+</p>
+
+> Not: Katkıda bulunmak isteyen öğrenciler yöneticiden davet almalı ve katkıları onaylandıktan sonra bu listeye eklenir.
