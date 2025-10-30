@@ -17,11 +17,11 @@ Her katılımcı için proje ana dizininde bir klasör bulunur.
 ```text
 ana proje dizini /
 │
-├─ Ali_Veli
-├─ Ahmet_Yilmaz
-├─ Aysenur_Gurses
-├─ Ismail_Sen
-└─ README.md
+├─ Ali_Veli        <== örnek klasör adı
+├─ Ahmet_Yilmaz    <== örnek klasör adı
+├─ Aysenur_Gurses  <== örnek klasör adı
+├─ Ismail_Sen      <== örnek klasör adı
+└─ README.md       <== proje bilgilendirmesi
 ```
 
 ---
