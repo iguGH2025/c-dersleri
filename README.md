@@ -23,6 +23,59 @@ ana proje dizini /
 └─ Ismail_Sen
 ```
 
+## İNDİRME VE DÜZENLEME SİSTEMİ
+
+Bu proje doğrudan **main branch** üzerinde çalışacak şekilde yapılandırılmıştır.
+Katılımcılar proje dosyalarına erişebilmek ve düzenleme yapabilmek için **yönetici onayıyla davet edilmelidir.**
+
+1. **Katılım ve Erişim İzni**
+   Projeye katkı yapmak isteyen öğrenciler önce yöneticiden izin almak zorundadır.
+   Yönetici, katılmak isteyen kullanı adını aldıktan sonra, katılımcıya GitHub üzerinden email adresine **davet (invite)** gönderir.
+   Daveti kabul eden kullanıcı projeye yazma izni kazanır ve `main` branch (dal) üzerinde düzenleme yapabilir.
+
+   Katkı talebi için iletişim adresi:
+   **📧 [igu2025gh@hotmail.com](mailto:igu2025gh@hotmail.com)**
+
+2. **Projeyi İndirme (Klonlama)**
+   Daveti kabul ettikten sonra proje kendi bilgisayarına şu şekilde indirilir:
+
+   ```bash
+   git clone https://github.com/iguGH2025/c-dersleri.git
+   cd c-dersleri
+   ```
+
+3. **Klasör Ekleme ve Düzenleme**
+   Her öğrenci yalnızca kendi klasöründe çalışmalıdır.
+   Klasör adı `Ad_Soyad` formatında olmalı, Türkçe karakter kullanılmamalıdır.
+
+   ```bash
+   mkdir Ad_Soyad
+   cd Ad_Soyad
+   echo "// ilk örnek dosya" > ornek.c # "" içindeki metni ornek.c dosyasının içine yazar.
+   ```
+
+4. **Değişiklikleri Kaydetme ve Gönderme**
+   Yapılan değişiklikler doğrudan `main` branch’ine eklenir.
+
+   ```bash
+   git add .
+   git commit -m "Ad_Soyad klasörü ve ornek.c eklendi"
+   git push origin main
+   ```
+
+5. **Yönetici Onayı ve Denetim**
+
+   * Her commit yöneticiler tarafından gözden geçirilir.
+   * Uygun olmayan değişiklikler (örneğin başkasının klasörüne müdahale) geri alınabilir veya silinebilir.
+   * Düzenli olarak proje bütünlüğü kontrol edilir.
+
+Bu sistemde herkes katkı yapabilir, ancak **katılım yalnızca yönetici davetiyle mümkündür** ve **ana projedeki değişiklikler sürekli gözetim altındadır.**
+
+
+### Müdahale
+
+- yazdığınız kodların başkası tarafından müdahale edilirse, ya kendiniz tekrar düzenleyin yada admine bildirin.
+
 ## KATILIM KURALLARI
 
 1. Her öğrenci klasör adı olarak kendi adını ve soyadını Türkçe karakter kullanmadan yazmalıdır. (örnek: Halil_Hattab)
