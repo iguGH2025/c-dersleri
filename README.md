@@ -88,9 +88,9 @@ git push origin main
 6. Yönetici Onayı ve Denetim
    Her commit yöneticiler tarafından düzenli olarak gözden geçirilir. Uygun olmayan değişiklikler (örneğin başkasının klasörüne müdahale) geri alınabilir veya silinebilir. Proje bütünlüğü düzenli aralıklarla kontrol edilir.
 
-### MÜDAHALE
-Yazdığınız kodlara başkası tarafından müdahale edilirse, dosyalarınızı tekrar düzenleyip gönderin veya durumu yöneticiye bildirin.
-
+> [!WARNING]
+> ### MÜDAHALE
+> Yazdığınız kodlara başkası tarafından müdahale edilirse, dosyalarınızı tekrar düzenleyip gönderin veya durumu [proje yöneticisi](mailto:hattab1342@gmail.com) ne bildirin (email).
 
 ## KATILIM KURALLARI
 
@@ -145,4 +145,5 @@ Bu projeye katkı sağlayan öğrenciler aşağıda listelenmiştir.
   </a>
 </p>
 
-> Not: Katkıda bulunmak isteyen öğrenciler yöneticiden davet almalı ve katkıları onaylandıktan sonra bu listeye eklenir.
+> [!NOTE]
+> Katkıda bulunmak isteyen öğrenciler yöneticiden davet almalı ve katkıları onaylandıktan sonra bu listeye eklenir.
