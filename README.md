@@ -9,6 +9,9 @@ Projenin kuralları zor geliyorsa ayrılmanızı rica ederim. Konfor alanında d
 Proje sonunda herkesin kendi CV’sine ve deneyimine ekleyebileceği bir açık kaynak proje geçmişi olacak.
 İlk ayda hemen katılım sağlanması beklenmemelidir; hepimiz yolun başındayız ve öğreneceğimiz çok şey var.
 
+> [!IMPORTANT]
+> proje tanıtım [Sitesi](https://cdws.vercel.app) geliştirilmiştir.
+
 ## PROJE YAPISI
 Her katılımcı için proje ana dizininde bir klasör bulunur.
 
