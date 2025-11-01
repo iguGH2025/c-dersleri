@@ -4,18 +4,18 @@ int main(){
 
 	float sinav1=42.13, sinav2=90, sinav3=50, sinav4=62, sonuc;
 
-	printf("Sinif gecme programina hos geldiniz!\n");
-	printf("bu programla, daha onceden degiskenlerle degerleri atanmis sinav sonuclarini hesaplayarak sinifi gecip gecmedigini kullaniciya bildirecek.");
+	printf("\n\n\tSinif gecme programina hos geldiniz!\n");
+	printf("\n\tbu programla, daha onceden degiskenlerle degerleri atanmis sinav sonuclarini hesaplayarak sinifi gecip gecmedigini kullaniciya bildirecek.\n\n");
 
 	sonuc=(sinav1+sinav2+sinav3+sinav4)/4;
 
 	if (sonuc>=50)
 	{
-		printf("sinifi %f puan ortalamasiyla gecti =)\n", sonuc);
+		printf("\n\tsinifi %f puan ortalamasiyla gecti =)\n\n", sonuc);
 	} else if (sonuc<=49){
-		printf("sinifi %f puan ortalamasiyla kaldi =(\n");
+		printf("\n\tsinifi %f puan ortalamasiyla kaldi =(\n\n");
 	} else {
-		printf("program if-else kod blogunda hata verdi.");
+		printf("\n\nprogram if-else kod blogunda hata verdi.\n\n");
 	}
 
 	return 0;
