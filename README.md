@@ -12,6 +12,33 @@ Proje sonunda herkesin kendi CV’sine ve deneyimine ekleyebileceği bir açık 
 > [!IMPORTANT]
 > proje tanıtım [Sitesi](https://cdws.vercel.app) geliştirilmiştir.
 
+## KATILIM KURALLARI
+
+1. Her öğrenci klasör adı olarak kendi adını ve soyadını Türkçe karakter kullanmadan yazmalıdır. (örnek: Halil_Hattab)
+2. Her öğrenci yalnızca kendi klasöründe dosya oluşturabilir, silebilir veya düzenleyebilir.
+3. Kodlarda Türkçe karakter kullanılmaz (örnek: ğ, ü, ş, ö, ç, ı).
+4. Kod dosyaları anlamlı isimler taşımalıdır (örnek: faktoriyel.c, dizi_ortalama.c).
+5. Kod içinde açıklayıcı yorum satırları bulunmalıdır.
+6. Her kod derlenebilir durumda olmalıdır. Hatalı veya eksik kod yüklenmemelidir; hatalıysa düzeltilmelidir.
+6. Git işlemleri düzenli yapılmalıdır. Katılımcıların bu komutları kendilerinin öğrenmesi ve uygulaması beklenir:
+   Yeni dosya eklemek için: git add .
+   Açıklayıcı mesajla commit atmak için: git commit -m "Yeni ödev eklendi"
+   Değişiklikleri GitHub’a göndermek için: git push
+7. Başkalarının klasörlerine yapılan yanlışlıkla değişiklikler tespit edilirse commit geri alınmalıdır. Tekrarlanırsa katılımcı projeden çıkarılır.
+8. Projeler haftalık olarak kontrol edilir.
+9. Her katılımcı kendi GitHub hesabıyla katkı sağlar. Commit’ler kendi kullanıcı adlarıyla görüneceği için sistem otomatik olarak katkıyı algılar.
+
+## BELGELENDİRME
+
+Her klasör içinde kısa bir README.md dosyası bulunmalı ve aşağıdaki bilgileri içermelidir:
+1. Projenin adı
+2. Ne amaçla yazıldığı
+3. Kısa çalışma açıklaması
+4. Derleme ve çalıştırma komutları.
+
+> [!CAUTION]
+> projede bulunan `.git` klasörünü **asla dokunmayın**.
+
 ## PROJE YAPISI
 Her katılımcı için proje ana dizininde bir klasör bulunur.
 
@@ -48,7 +75,28 @@ git clone https://github.com/iguGH2025/c-dersleri.git
 cd c-dersleri
 ```
 
-3. Çalışmaya Başlamadan Önce Son Güncellemeleri Alma (Zorunlu)
+3. Git Kullanıcı Bilgisini Ayarlama **(Zorunlu İlk Adım)**
+   Eğer ilk kez Git kullanıyorsanız veya commit sırasında aşağıdakine benzer bir uyarı alırsanız:
+
+   ```
+Author identity unknown
+*** Please tell me who you are.
+Run
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+   ```
+   Bu durumda, kendi adınızı ve GitHub e-posta adresinizi yazarak aşağıdaki komutları çalıştırın:
+
+   ```
+git config --global user.name "Adınız Soyadınız"
+git config --global user.email "github_email_adresiniz@example.com"
+   ```
+
+   Bu ayarları bir kez yaptıktan sonra, tüm projelerde geçerli olur.
+   Eğer sadece bu proje için geçerli olmasını istiyorsanız --global parametresini kaldırabilirsiniz.
+
+
+4. Çalışmaya Başlamadan Önce Son Güncellemeleri Alma (Zorunlu)
    Yerelde çalışmaya başlamadan önce ana depodaki en güncel halleri alın:
 
 ```
@@ -64,7 +112,7 @@ git add <duzeltilen-dosyalar>
 git rebase --continue
 ```
 
-4. Klasör Ekleme ve Düzenleme
+5. Klasör Ekleme ve Düzenleme
    Her öğrenci yalnızca kendi klasöründe çalışmalıdır. Klasör adı Ad_Soyad formatında olmalı, Türkçe karakter kullanılmamalıdır.
 
 ```
@@ -73,7 +121,7 @@ cd Ad_Soyad
 echo "// ilk örnek dosya" > ornek.c
 ```
 
-5. Değişiklikleri Kaydetme ve Gönderme
+6. Değişiklikleri Kaydetme ve Gönderme
    Yapılan değişiklikler doğrudan main branch’ine eklenir:
 
 ```
@@ -89,39 +137,12 @@ git pull --rebase origin main
 git push origin main
 ```
 
-6. Yönetici Onayı ve Denetim
+7. Yönetici Onayı ve Denetim
    Her commit yöneticiler tarafından düzenli olarak gözden geçirilir. Uygun olmayan değişiklikler (örneğin başkasının klasörüne müdahale) geri alınabilir veya silinebilir. Proje bütünlüğü düzenli aralıklarla kontrol edilir.
 
 > [!WARNING]
 > ### MÜDAHALE
 > Yazdığınız kodlara başkası tarafından müdahale edilirse, dosyalarınızı tekrar düzenleyip gönderin veya durumu [proje yöneticisi](mailto:hattab1342@gmail.com) ne bildirin (email).
-
-## KATILIM KURALLARI
-
-1. Her öğrenci klasör adı olarak kendi adını ve soyadını Türkçe karakter kullanmadan yazmalıdır. (örnek: Halil_Hattab)
-2. Her öğrenci yalnızca kendi klasöründe dosya oluşturabilir, silebilir veya düzenleyebilir.
-3. Kodlarda Türkçe karakter kullanılmaz (örnek: ğ, ü, ş, ö, ç, ı).
-4. Kod dosyaları anlamlı isimler taşımalıdır (örnek: faktoriyel.c, dizi_ortalama.c).
-5. Kod içinde açıklayıcı yorum satırları bulunmalıdır.
-6. Her kod derlenebilir durumda olmalıdır. Hatalı veya eksik kod yüklenmemelidir; hatalıysa düzeltilmelidir.
-6. Git işlemleri düzenli yapılmalıdır. Katılımcıların bu komutları kendilerinin öğrenmesi ve uygulaması beklenir:
-   Yeni dosya eklemek için: git add .
-   Açıklayıcı mesajla commit atmak için: git commit -m "Yeni ödev eklendi"
-   Değişiklikleri GitHub’a göndermek için: git push
-7. Başkalarının klasörlerine yapılan yanlışlıkla değişiklikler tespit edilirse commit geri alınmalıdır. Tekrarlanırsa katılımcı projeden çıkarılır.
-8. Projeler haftalık olarak kontrol edilir.
-9. Her katılımcı kendi GitHub hesabıyla katkı sağlar. Commit’ler kendi kullanıcı adlarıyla görüneceği için sistem otomatik olarak katkıyı algılar.
-
-## BELGELENDİRME
-
-Her klasör içinde kısa bir README.md dosyası bulunmalı ve aşağıdaki bilgileri içermelidir:
-1. Projenin adı
-2. Ne amaçla yazıldığı
-3. Kısa çalışma açıklaması
-4. Derleme ve çalıştırma komutları.
-
-> [!CAUTION]
-> projede bulunan `.git` klasörünü **asla dokunmayın**.
 
 ## HEDEFLER
 

@@ -29,6 +29,27 @@
 
 	- Github platformu hakkında Wiki makalesi (meraklılar için): [Github](https://tr.wikipedia.org/wiki/GitHub)
 
+- [GitHub CLI (gh)](https://cli.github.com/):
+	- gitHub hesabınızla komut satırından işlem yapabilmenizi sağlar (örneğin: repo klonlama, PR açma, issue oluşturma, login işlemleri).
+	- indirme bağlantıları:
+		windows: `winget install --id GitHub.cli` (bu komutta hata alırsanız bu komutu çalıştırın: `winget update` ardından tekrar deneyin. yine olmazsa [bağlantıdan](https://cli.github.com/) indirebilirsiniz.)
+	- macOS: `macOS: brew install gh`
+	- Linux (Debian/Ubuntu):
+	```
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+sudo apt update
+sudo apt install gh -y
+	```
+	- kurulum sonrası kontrol edin: `gh --version` versiyon numarası görünüyorsa indirme başarılıdır.
+	- gitHub CLI ile giriş yapmak için: `gh auth login` burada github hesabınızın olması şart, komut panelini takip ederek giriş yapabilirsiniz.
+	- daha fazla bilgi için: [CLI Kullanım Kılavuzu](https://cli.github.com/manual/)
+
+	> [!NOTE] gh aracı zorunlu değildir, isteğe bağlı olarak kurulabilir
+
+
 ## Proje Düzenleme Aşamaları:
 - indirmek:
 	- projeyi `git clone https://github.com/iguGH2025/c-dersleri.git` komutu ile indirme:
