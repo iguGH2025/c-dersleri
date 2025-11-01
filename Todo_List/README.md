@@ -8,7 +8,7 @@
 	- `[`X`]` (2 köşeli parantez arasında `X` yazın.)
 
 - Tamamlanmamış görevler için:
-	- `[``]` (2 köşeli parantez arasında ` ` boşluk bırakın.)
+	- `[ ]` (2 köşeli parantez arasında ` ` boşluk bırakın.)
 
 - [ ] Yarışma Sisteminin Geliştirilmesi
 - [ ] Herhangi bir geliştiricinin bu görevi "Tamamlandı" olarak işaretlemesi. <--
