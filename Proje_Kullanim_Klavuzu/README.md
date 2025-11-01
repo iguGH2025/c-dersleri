@@ -72,15 +72,14 @@
 	- eğer ilk kez düzenliyorsanız:
 		- projeyi indirdikten sonra `c-dersleri` adlı klasöre girin, ilgili komut:
 			- `cd c-dersleri`: bu komut sizi projenin içine alır; bundan sonraki git komutları bu dizin içinde çalışmalıdır.
-			> [!WARNING] 
-			> `git` komutları sadece `c-dersleri` klasörü altında çalışır.
+> [!WARNING] 
+> `git` komutları sadece `c-dersleri` klasörü altında çalışır.
 
-		- kendi adınız ve soyadınızla bir klasör oluşturun, örneğin:
-			- `Halil_Hattab`, boşluk karakteri yerine `_` karakterini kullanın, ilgili komut:
-				- `mkdir Adiniz_Soyadiniz`
-			> dosya adlarında boşluk, türkçe karakter (ç, ğ, ı, ö, ş, ü) ve . (nokta) ile biten adlar kullanmayın. sadece harf, rakam ve _ karakteri kullanılmalıdır.
+- kendi adınız ve soyadınızla bir klasör oluşturun, örneğin:
+	- `Halil_Hattab`, boşluk karakteri yerine '_' karakterini kullanın, ilgili komut: `mkdir Adiniz_Soyadiniz`
+		> dosya adlarında boşluk, türkçe karakter (ç, ğ, ı, ö, ş, ü) ve . (nokta) ile biten adlar kullanmayın. sadece harf, rakam ve _ karakteri kullanılmalıdır.
 
-		- klasörü oluşturduktan sonra içine girip `*.c` uzantılı (c programlama dilini barındıran dosyaların uzantısı: .c) dosyalarınızı yazabilirsiniz.
+	- klasörü oluşturduktan sonra içine girip `*.c` uzantılı (c programlama dilini barındıran dosyaların uzantısı: .c) dosyalarınızı yazabilirsiniz.
 		> kodunuzu sadece `.c` uzantılı dosyalara yazın. `.txt`, `.cpp` veya `.h` gibi uzantılar kabul edilmez.
 	- eğer daha önce düzenlediyseniz:
 		- diğer klasörleri asla dokunmayacaksınız, sadece kendinize ait oluşturduğunuz klasöre girip düzenleme yapacaksınız.
