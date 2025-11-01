@@ -172,3 +172,8 @@ Bu projeye katkı sağlayan öğrenciler aşağıda listelenmiştir.
 
 > [!NOTE]
 > Katkıda bulunmak isteyen öğrenciler yöneticiden davet almalı ve katkıları onaylandıktan sonra bu listeye eklenir.
+
+---
+
+### Proje Yöneticisi
+- [trs-1342](https://github.com/trs-1342)
