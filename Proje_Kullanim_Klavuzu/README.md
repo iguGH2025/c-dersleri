@@ -65,13 +65,15 @@
 - proje yapısı:
 	- projeyi indirdikten sonra bulunduğunuz dizine `c-dersleri` adında bir klasör, ve içinde projeye ait olan tüm verileri barındırır.
 	- `c-dersleri` içinde gizli olan `.git` klasörü tüm projenin beyni ve kalbidir. bozulursa tüm projenin kaybolmasına neden olabilir.
-	> ! UYARI: projede bulunan `.git` klasörünü <ins>**asla dokunmayın**</ins>. bozulması halinde proje yöneticisine danışın.
+	> [!WARNING]
+	> projede bulunan `.git` klasörünü <ins>**asla dokunmayın**</ins>. bozulması halinde proje yöneticisine danışın.
 
 - projeyi düzenleme:
 	- eğer ilk kez düzenliyorsanız:
 		- projeyi indirdikten sonra `c-dersleri` adlı klasöre girin, ilgili komut:
 			- `cd c-dersleri`: bu komut sizi projenin içine alır; bundan sonraki git komutları bu dizin içinde çalışmalıdır.
-			> ! UYARI: `git` komutları sadece `c-dersleri` klasörü altında çalışır.
+			> [!WARNING] 
+			> `git` komutları sadece `c-dersleri` klasörü altında çalışır.
 
 		- kendi adınız ve soyadınızla bir klasör oluşturun, örneğin:
 			- `Halil_Hattab`, boşluk karakteri yerine `_` karakterini kullanın, ilgili komut:
