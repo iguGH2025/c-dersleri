@@ -47,7 +47,7 @@
 	- gitHub CLI ile giriş yapmak için: `gh auth login` burada github hesabınızın olması şart, komut panelini takip ederek giriş yapabilirsiniz.
 	- daha fazla bilgi için: [CLI Kullanım Kılavuzu](https://cli.github.com/manual/)
 
-	> [!NOTE]:
+	> [!NOTE]
 	> gh aracı zorunlu değildir, isteğe bağlı olarak kurulabilir
 
 
@@ -109,7 +109,7 @@
 		> ilk push işleminde GitHub sizden kullanıcı adı ve Personal Access Token isteyebilir. Token, GitHub profilinizde → Ayarlar → Geliştirici Ayarları → Kişisel Erişim Jetonları → Fine-grained tokens kısmından oluşturulur. (AI yardımı alabilirsiniz.)
 
 
-> [!WARNING]: 
+> [!WARNING]
 > Eğer `error: invalid path` veya `merge conflict` gibi bir hata alırsanız, projeyi kapatıp proje yöneticisine bildirin.  
 > Hatalı dosya adı veya yanlış klasör düzenlemesi GitHub sisteminde bozulmaya neden olabilir.  
 > Lütfen **başka bir öğrencinin klasörüne dokunmayın** ve yalnızca kendi klasörünüzde çalışın.
