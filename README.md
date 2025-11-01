@@ -78,19 +78,19 @@ cd c-dersleri
 3. Git Kullanıcı Bilgisini Ayarlama **(Zorunlu İlk Adım)**
    Eğer ilk kez Git kullanıyorsanız veya commit sırasında aşağıdakine benzer bir uyarı alırsanız:
 
-   ```
+```
 Author identity unknown
 *** Please tell me who you are.
 Run
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
-   ```
+```
    Bu durumda, kendi adınızı ve GitHub e-posta adresinizi yazarak aşağıdaki komutları çalıştırın:
 
-   ```
+```
 git config --global user.name "Adınız Soyadınız"
 git config --global user.email "github_email_adresiniz@example.com"
-   ```
+```
 
    Bu ayarları bir kez yaptıktan sonra, tüm projelerde geçerli olur.
    Eğer sadece bu proje için geçerli olmasını istiyorsanız --global parametresini kaldırabilirsiniz.
