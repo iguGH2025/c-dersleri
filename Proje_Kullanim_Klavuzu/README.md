@@ -109,10 +109,10 @@
 		> ilk push işleminde GitHub sizden kullanıcı adı ve Personal Access Token isteyebilir. Token, GitHub profilinizde → Ayarlar → Geliştirici Ayarları → Kişisel Erişim Jetonları → Fine-grained tokens kısmından oluşturulur. (AI yardımı alabilirsiniz.)
 
 
-		> [!WARNING]: 
-		> Eğer `error: invalid path` veya `merge conflict` gibi bir hata alırsanız, projeyi kapatıp proje yöneticisine bildirin.  
-		> Hatalı dosya adı veya yanlış klasör düzenlemesi GitHub sisteminde bozulmaya neden olabilir.  
-		> Lütfen **başka bir öğrencinin klasörüne dokunmayın** ve yalnızca kendi klasörünüzde çalışın.
+> [!WARNING]: 
+> Eğer `error: invalid path` veya `merge conflict` gibi bir hata alırsanız, projeyi kapatıp proje yöneticisine bildirin.  
+> Hatalı dosya adı veya yanlış klasör düzenlemesi GitHub sisteminde bozulmaya neden olabilir.  
+> Lütfen **başka bir öğrencinin klasörüne dokunmayın** ve yalnızca kendi klasörünüzde çalışın.
 
 ## Sorun Giderme
 - `error: invalid path` → Dosya adında yasaklı karakter var. kendi klasörünüzdeki tüm dosya adlarını kontrol edin.
