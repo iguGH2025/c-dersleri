@@ -65,8 +65,8 @@
 - proje yapısı:
 	- projeyi indirdikten sonra bulunduğunuz dizine `c-dersleri` adında bir klasör, ve içinde projeye ait olan tüm verileri barındırır.
 	- `c-dersleri` içinde gizli olan `.git` klasörü tüm projenin beyni ve kalbidir. bozulursa tüm projenin kaybolmasına neden olabilir.
-	> [!WARNING]
-	> projede bulunan `.git` klasörünü <ins>**asla dokunmayın**</ins>. bozulması halinde proje yöneticisine danışın.
+> [!WARNING]
+> projede bulunan `.git` klasörünü <ins>**asla dokunmayın**</ins>. bozulması halinde proje yöneticisine danışın.
 
 - projeyi düzenleme:
 	- eğer ilk kez düzenliyorsanız:
