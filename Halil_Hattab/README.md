@@ -13,5 +13,5 @@
 	- `scanf` fonksiyonunun nasıl çalıştığını anlatır.
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > Bu proje geliştirilme sürecindedir, genel olarak hafta sonları aktif katılım sağlayabiliyorum.
