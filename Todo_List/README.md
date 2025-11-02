@@ -1,6 +1,6 @@
 # Yapılacaklar Listesi
 
-- Bu listede geliştiricilerin proje için yapılacaklar listesidir, her tamamlandığında OK, tamamlanmadığında X diye işaretlenir.
+- Bu listede geliştiricilerin proje için yapılacaklar listesidir, her tamamlandığında OK, tamamlanmadığında boş bırakılır.
 - Geliştiricilerin projeye eklenmesini düşündüğü özellikleri buraya yazarak ister kendisi, ister bir başka geliştirici tarafından tamamlanabilir, topluluk istemediyse kaldırılabilir.
 - "Ertelenenler" gibi kategoriler oluşturulabilir.
 
