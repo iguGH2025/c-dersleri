@@ -12,6 +12,9 @@
 3. scanf.c:
 	- `scanf` fonksiyonunun nasıl çalıştığını anlatır.
 
+4. HesapMakinesi.c:
+	- fonksiyonlu hesap makinesi. (_açıkları var_)
+
 
 > [!NOTE]
 > Bu proje geliştirilme sürecindedir, genel olarak hafta sonları aktif katılım sağlayabiliyorum.
