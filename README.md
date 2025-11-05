@@ -102,7 +102,7 @@ git config --global user.email "github_email_adresiniz@example.com"
 ```
 git switch main
 git fetch origin
-git pull --rebase origin main
+git pull origin main
 ```
 
 Not: Rebase sırasında çatışma (conflict) oluşursa ilgili dosyaları düzeltin, ardından:
