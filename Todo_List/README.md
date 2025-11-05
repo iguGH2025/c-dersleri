@@ -23,6 +23,6 @@
 # Yapılacaklar
 
 - [ ] Yarışma Sisteminin Geliştirilmesi
-- [ ] Herhangi bir geliştiricinin bu görevi "Tamamlandı" olarak işaretlemesi. <--
+- [X] Herhangi bir geliştiricinin bu görevi "Tamamlandı" olarak işaretlemesi. <--
 - [ ] Whatsapp grubunda soru sormak veya fikir önermek.
-- [ ] Geliştirici dışında katkı/commit eklemek.
+- [X] Geliştirici dışında katkı/commit eklemek.
