@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/sararezk/Sara_Rezk/c-dersleri-1/Sara_Rezk/Sara_Rezk",
-      "program": "/Users/sararezk/Sara_Rezk/c-dersleri-1/Sara_Rezk/Sara_Rezk/build/Debug/outDebug"
+      "cwd": "/Users/sararezk/Sara_Rezk/c-dersleri-1/Sara_Rezk",
+      "program": "/Users/sararezk/Sara_Rezk/c-dersleri-1/Sara_Rezk/build/Debug/outDebug"
     }
   ]
 }
