@@ -6,3 +6,7 @@
 *~
 *.swp
 *.swo
+*.un~
+# diger yuklenmesini istemedikleriniz:
+
+*.exe
