@@ -166,7 +166,10 @@ Bu projeye katkı sağlayan öğrenciler aşağıda listelenmiştir.
     <img src="https://avatars.githubusercontent.com/trs-1342" width="70" height="70" style="border-radius:50%;" alt="trs-1342"/>
   </a>
   <a href="https://github.com/sara-rezk">
-    <img src="https://avatars.githubusercontent.com/sara-rezk" width="70" height="70" style="border-radius:50%;" alt="trs-1342"/>
+    <img src="https://avatars.githubusercontent.com/sara-rezk" width="70" height="70" style="border-radius:50%;" alt="sara-rezk"/>
+  </a>
+   <a href="https://github.com/qusaitahan2007-debug">
+    <img src="https://avatars.githubusercontent.com/qusaitahan2007-debug" width="70" height="70" style="border-radius:50%;" alt="qusaitahan2007-debug"/>
   </a>
 </p>
 
