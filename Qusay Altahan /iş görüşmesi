@@ -31,7 +31,7 @@ int main() {
 	
     else 
     {
-    	printf("�niversite ortalmaniz kac\n");
+    	printf("universite ortalmaniz kac\n");
     	scanf("%d",&uni_ort);
 	}
 	printf("tesekurler is gorusmesi icin hazirsiniz\n");
