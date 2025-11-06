@@ -1,6 +1,9 @@
 # bu dosya github'a yuklenilmesini istenmeyen dosya adlari yazilir.
 
 .env*
+# Visual Studio Code ayar ve klasörlerini görmezden gel
+.vscode/
+
 
 # vim files:
 *~
