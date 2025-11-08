@@ -36,5 +36,5 @@
 - [X] Herhangi bir geliştiricinin bu görevi "Tamamlandı" olarak işaretlemesi. <--
 - [ ] Whatsapp grubunda soru sormak veya fikir önermek.
 - [X] Geliştirici dışında katkı/commit eklemek.
-- [ ] Projeye ekleme yapıldığında elle onaylanabilmesi.
+- [X] Projeye ekleme yapıldığında elle onaylanabilmesi. | s: 05.11.25 | f: 08.11.25
 - [ ] README.md dosyaların güncellenip düzeltilmesi. | s: 07.11.25
