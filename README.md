@@ -152,26 +152,28 @@ git push origin main
 - Ortak çalışma kültürünü geliştirmek
 - Katkı geçmişiyle özgeçmişe referans sağlayacak bir yazılım projesi oluşturmak
 
-
-## Katkı Sağlayanlar
-
-Bu projeye katkı sağlayan öğrenciler aşağıda listelenmiştir.  
-(GitHub profil fotoğraflarına tıklayarak profillerine ulaşabilirsiniz.)
+<h2 align="center">Katkı Sağlayanlar</h2>
 
 <p align="center">
-  <a href="https://github.com/iguGH2025">
-    <img src="https://avatars.githubusercontent.com/iguGH2025" width="70" height="70" style="border-radius:50%;" alt="iguGH2025"/>
+  Bu projeye katkı sağlayan öğrenciler aşağıda listelenmiştir. <br/>
+  (GitHub profil fotoğraflarına tıklayarak profillerine ulaşabilirsiniz.)
+</p>
+
+<p align="center">
+  <a href="https://github.com/iguGH2025" title="iguGH2025">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/iguGH2025&h=70&w=70&fit=cover&mask=circle" width="70" height="70" alt="iguGH2025"/>
   </a>
-  <a href="https://github.com/trs-1342">
-    <img src="https://avatars.githubusercontent.com/trs-1342" width="70" height="70" style="border-radius:50%;" alt="trs-1342"/>
+  <a href="https://github.com/trs-1342" title="trs-1342">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/trs-1342&h=70&w=70&fit=cover&mask=circle" width="70" height="70" alt="trs-1342"/>
   </a>
-  <a href="https://github.com/sara-rezk">
-    <img src="https://avatars.githubusercontent.com/sara-rezk" width="70" height="70" style="border-radius:50%;" alt="sara-rezk"/>
+  <a href="https://github.com/sara-rezk" title="sara-rezk">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/sara-rezk&h=70&w=70&fit=cover&mask=circle" width="70" height="70" alt="sara-rezk"/>
   </a>
-   <a href="https://github.com/qusaitahan2007-debug">
-    <img src="https://avatars.githubusercontent.com/qusaitahan2007-debug" width="70" height="70" style="border-radius:50%;" alt="qusaitahan2007-debug"/>
+  <a href="https://github.com/qusaitahan2007-debug" title="qusaitahan2007-debug">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/qusaitahan2007-debug&h=70&w=70&fit=cover&mask=circle" width="70" height="70" alt="qusaitahan2007-debug"/>
   </a>
 </p>
+
 
 > [!NOTE]
 > Katkıda bulunmak isteyen öğrenciler yöneticiden davet almalı ve katkıları onaylandıktan sonra bu listeye eklenir.
