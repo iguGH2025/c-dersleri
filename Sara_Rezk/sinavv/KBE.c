@@ -9,7 +9,6 @@ int main() {
     scanf("%f", &boy);
 
     kbe = kilo/(boy*boy); 
-    printf(" Kilo Boy Endeksi degeriniz: %4.2f\n", kbe);
 
     if(kbe>0 && kbe<18.5)
     {
