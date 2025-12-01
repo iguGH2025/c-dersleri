@@ -9,3 +9,5 @@ yaptigim C projeleri bulunmaktadir.
 - Derste_ogrendigimiz/ : HelloWorld, Yas_Gurubplama.
 
 Her projede aciklayici yorumlar ve derleme komutlari mevcuttur.
+
+![QR Kod](qr.png)
