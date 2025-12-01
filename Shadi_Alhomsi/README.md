@@ -10,4 +10,5 @@ yaptigim C projeleri bulunmaktadir.
 
 Her projede aciklayici yorumlar ve derleme komutlari mevcuttur.
 
+# GitHub Profilim
 ![QR Kod](qr.png)
